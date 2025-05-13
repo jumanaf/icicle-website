@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Icicle Consulting</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Icicle Consulting</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Ways To Keep Up With the AI Revolution</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>In the fast-paced world of AI, here are 5 meaningful ways to make sure you and your team utilize the most impactful tools as they come up.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I love solving hard problems with speed and accuracy.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a data scientist and machine learning engineer, with experience in full-stack engineering, building automations to scale companies, and pulling insights from raw data through publication-ready visualizations and statistical analyses.&lt;/p&gt;&#xA;&lt;p&gt;My experience is in both hard-tech startups and academia.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I did my undergraduate degree in the University of Washington (Bioengineering + Data Science), where I was an undergrad researcher in the &lt;a href=&#34;https://depts.washington.edu/kuehlab/&#34;&gt;Kueh&lt;/a&gt; and Beliveau labs.&lt;/li&gt;&#xA;&lt;li&gt;I spent three years at &lt;a href=&#34;https://www.dynotx.com/&#34;&gt;Dyno Therapeutics&lt;/a&gt;, scaling the computational team to accelerate the discovery and licensing of gene therapies.&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;ve spent the past year as the Chief AI Officer at &lt;a href=&#34;https://www.kiwicharge.ca/&#34;&gt;Kiwi Charge&lt;/a&gt;, an EV charging startup. I lead the strategy and implementation for software, cybersecurity, and machine learning.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;My strength is in &lt;strong&gt;distilling complex data and technology into actionable and accessible insights&lt;/strong&gt;. My interdisciplinary background allows me to communicate with people from diverse tech/non-tech backgrounds, and help bring people&amp;rsquo;s ideas into reality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;details class=&#34;faq-item&#34;&gt;&#xA;    &lt;summary class=&#34;faq-title&#34;&gt;What services do you provide?&lt;/summary&gt;&#xA;    &lt;div class=&#34;faq-content&#34;&gt;&lt;p&gt;We allow you to move FAST using AI, with no lift from your end. Icicle will set up your future-proofed workflow, filtering out all the noise to select the best tools to work with your systems.&lt;/p&gt;&#xA;&lt;p&gt;We also provide data science solutions, aloowing you to get insights from raw data to visualizations at speed.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;  &lt;/details&gt;&#xA;  &#xA;  &lt;style&gt;&#xA;    .faq-item {&#xA;      margin: 1em 0;&#xA;      padding: 0.75em 1em;&#xA;      border-radius: 0.5em;&#xA;      background-color: #f1f5f9;&#xA;      box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);&#xA;      transition: all 0.2s ease;&#xA;    }&#xA;  &#xA;    .faq-item[open] {&#xA;      background-color: #efefef;&#xA;      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);&#xA;    }&#xA;  &#xA;    .faq-title {&#xA;      font-weight: bold;&#xA;      font-size: 1.1em;&#xA;      cursor: pointer;&#xA;      padding: 0.25em;&#xA;      transition: color 0.2s ease;&#xA;    }&#xA;  &#xA;    .faq-item[open] .faq-title {&#xA;      color: #1e293b;&#xA;    }&#xA;  &#xA;    .faq-title:hover {&#xA;      color: #2563eb;&#xA;    }&#xA;  &#xA;    .faq-content {&#xA;      margin-top: 0.5em;&#xA;      font-size: 0.95em;&#xA;      line-height: 1.5;&#xA;    }&#xA;  &lt;/style&gt;&#xA;  &#xA;&lt;details class=&#34;faq-item&#34;&gt;&#xA;    &lt;summary class=&#34;faq-title&#34;&gt;How do you work with clients?&lt;/summary&gt;&#xA;    &lt;div class=&#34;faq-content&#34;&gt;&lt;p&gt;We start with a consultation to understand your needs, whether they be to create automations, complete an analysis of your complex data, or future-proof your systems with AI. We conduct an exploration and project outline stage, where we lay out exact project plans, and check in with you at your preferred cadence to provide a high-quality and high-value product.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

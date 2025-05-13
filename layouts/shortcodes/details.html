@@ -1,0 +1,43 @@
+<details class="faq-item">
+    <summary class="faq-title">{{ (.Get 0) | markdownify }}</summary>
+    <div class="faq-content">{{ .Inner | markdownify }}</div>
+  </details>
+  
+  <style>
+    .faq-item {
+      margin: 1em 0;
+      padding: 0.75em 1em;
+      border-radius: 0.5em;
+      background-color: #f1f5f9;
+      box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+      transition: all 0.2s ease;
+    }
+  
+    .faq-item[open] {
+      background-color: #efefef;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+  
+    .faq-title {
+      font-weight: bold;
+      font-size: 1.1em;
+      cursor: pointer;
+      padding: 0.25em;
+      transition: color 0.2s ease;
+    }
+  
+    .faq-item[open] .faq-title {
+      color: #1e293b;
+    }
+  
+    .faq-title:hover {
+      color: #2563eb;
+    }
+  
+    .faq-content {
+      margin-top: 0.5em;
+      font-size: 0.95em;
+      line-height: 1.5;
+    }
+  </style>
+  

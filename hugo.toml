@@ -1,0 +1,93 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Icicle Consulting'
+theme = 'typo'
+
+
+# Google analytics code
+# googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# favicon path
+faviconPath = "/favicon"
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Meet your personalized Data Scientist.'
+homeIntroContent = """
+I'm Jumana, and I'm here to future-proof you and your work. 
+
+I create systems that are personalized for **you** - whether that's being an extra set of hands for data cleaning and analysis, creating scalable machine learning systems, or enabling your team to move 10x faster in the AI world we live in.
+
+### **Expertise**
+* **Data science and engineering:** I can take any dataset and work with you to move from raw data to publication-ready plots.
+* **Automation:** I create automated systems that do routine tasks, giving you time back to focus on what matters.
+*  **Enablement:** I can upskill you and your team to integrate AI tools with direct support, ensuring you are prepared for the AI future.
+</div>
+"""
+
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+
+# Book call button
+bookCallButtonText = "Book a Call"
+bookCallButtonUrl = "https://calendly.com/your-username"
+bookCallButtonStyle = "primary"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "faq"
+url = "/faq"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
