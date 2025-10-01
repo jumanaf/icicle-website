@@ -35,13 +35,15 @@ I create systems that are personalized for **you** - whether that's being an ext
 * **Data science and engineering:** I can take any dataset and work with you to move from raw data to publication-ready plots.
 * **Automation:** I create automated systems that do routine tasks, giving you time back to focus on what matters.
 *  **Enablement:** I can upskill you and your team to integrate AI tools with direct support, ensuring you are prepared for the AI future.
-</div>
+
+### **Previous Clients**
+* [University of Washington](https://bioe.uw.edu/)
+* [University of Pennsylvania](https://www.law.upenn.edu/)
+* [Convoke](https://www.convoke.bio/)
+
+
 """
 
-
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100

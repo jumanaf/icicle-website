@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Icicle Consulting</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:62853/posts/</link>
     <description>Recent content in Posts on Icicle Consulting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62853/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Ways To Keep Up With the AI Revolution</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:62853/posts/my-first-post/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:62853/posts/my-first-post/</guid>
       <description>In the fast-paced world of AI, here are 5 meaningful ways to make sure you and your team utilize the most impactful tools as they come up.</description>
     </item>
   </channel>
